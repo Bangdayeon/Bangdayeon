@@ -1,6 +1,4 @@
 # 👋 Hi, I’m Dayeon Bang
-<strong> 📫How to reach me</strong>
-  - <dybang00@gmail.com>
   
 # ⭐ Activities
 2022.07 | 컬러버스 인턴<br>

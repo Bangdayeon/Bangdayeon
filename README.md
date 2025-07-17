@@ -1,22 +1,62 @@
-# 👋 Hi, I’m Dayeon Bang
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F5EBA&height=200&section=header&text=Hello,%20I'm%20Dayeon&fontColor=FCFCFC&fontSize=35&fontAlignY=35&animation=fadeIn&desc=Front-end%20Developer%20&descAlign=80&descSize=16" />
+</p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="70" height="70"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="70" height="70" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="70" height="70" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Airplane.webp" alt="Airplane" width="70" height="70" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="70" height="70" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20South%20Korea.webp" alt="Flag South Korea" width="70" height="70" />&nbsp;&nbsp;&nbsp;
+</p>
+<br><br>
+
+<h1 align=center> ⭐ Activities </h1>
+<p>
+  2022.07 | 컬러버스 인턴<br>
+  2021.05 | 광운대학교 마스코트 제작<br>
+  2021.02 | 광운대학교 연구실 학부연구생<br>
+  2019.03 | 광운대학교 소프트웨어학부 전공 (미디어커뮤니케이션 연계전공)
+</p>
+<br><br>
+
+<h1 align=center> 📚 Tech Stack</h1>
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
   
-# ⭐ Activities
-2022.07 | 컬러버스 인턴<br>
-2022.04 | 광운대학교 총동아리연합회 분과장<br>
-2021.05 | 광운대학교 마스코트 제작<br>
-2021.02 | 광운대학교 연구실 학부연구생<br>
-2019.03 | 광운대학교 소프트웨어학부 학생회<br>
-2019.03 | 광운대학교 소프트웨어학부 전공 (미디어커뮤니케이션 연계전공)<br>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white">
+  <br><br>
 
-# 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Bangdayeon&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bangdayeon&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bangdayeon&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+  <br>
+</div>
+<br><br>
 
----
-[![](https://visitcount.itsvg.in/api?id=Bangdayeon&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align=center> 📊 Github Stats</h1>
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bangdayeon&theme=default&hide_border=false&include_all_commits=false&count_private=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bangdayeon&theme=default&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangdayeon&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+</div>
 

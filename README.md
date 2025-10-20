@@ -2,20 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F5EBA&height=200&section=header&text=Hello,%20I'm%20Dayeon&fontColor=FCFCFC&fontSize=35&fontAlignY=35&animation=fadeIn&desc=Front-end%20Developer%20&descAlign=80&descSize=16" />
 </p>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Woman%20Technologist.webp" alt="Woman Technologist" width="60" height="60"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="60" height="60" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="60" height="60" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Airplane.webp" alt="Airplane" width="60" height="60" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Open%20Book.webp" alt="Open Book" width="60" height="60" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20South%20Korea.webp" alt="Flag South Korea" width="60" height="60" />&nbsp;&nbsp;&nbsp;
-</p>
-<br><br>
-
 <h2 align=center> ⭐ Activities </h1>
 <p>
-  2022.07 | 컬러버스 인턴<br>
+  2024.09 - ing     | 북마크 아카이빙 서비스 Linkiving 프로젝트 진행중
+  2022.07 - 2023.03 | 컬러버스 인턴<br>
   2021.05 | 광운대학교 마스코트 제작<br>
   2021.02 | 광운대학교 연구실 학부연구생<br>
   2019.03 | 광운대학교 소프트웨어학부 전공 (미디어커뮤니케이션 연계전공)

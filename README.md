@@ -22,7 +22,6 @@
 
 <h2> 📚 Tech Stack</h2>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bangdayeon&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
   <br>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
@@ -42,13 +41,6 @@
   
 
 <br><br>
-
-
-<h2> 📊 Github Stats</h1>
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=Bangdayeon&theme=default&hide_border=false&include_all_commits=false&count_private=false">
-  
-</div>
 
 <h2> 📮 Contact</h1>
 <p>Email: dybang00@gmail.com</p>

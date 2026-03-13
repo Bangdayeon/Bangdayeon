@@ -3,13 +3,13 @@
 </p>
 
 <h2>✏️ Projects </h2>
-<p>
-  2025.07 - ing | AI 북마크 아카이빙 서비스 <a href="https://github.com/Team-SoFa/linkiving"><strong>Linkiving</strong></a><br>
-  2025.12 | 성격 테스트 기반 편지 공유 웹서비스 <a href="https://github.com/Bangdayeon/santa_appointment_letter"><strong>산타 임명장</strong></a> (1인 프로젝트)<br>
-  2025.11 | 액티비티 비교 예약 웹 플랫폼 <a href="https://github.com/FE19-Team3/global_nomad"><strong>한입 체험</strong></a><br>
-  2026.02 | 마스코트 소개 웹페이지 <a href="https://github.com/Bangdayeon/woonipangi"><strong>우니팡이</strong></a> (1인 프로젝트)<br>
-  2025.11 - ing | 다이어트 보조제 비교 어플 <a href="https://github.com/Da-sii/Frontend"><strong>다시</strong></a><br>
-</p>
+
+<div align="center">
+  <a href="https://github.com/Team-SoFa/linkiving"><img src="assets/Linkiving.png" width="220" /></a>
+  <a href="https://github.com/Bangdayeon/santa_appointment_letter"><img src="assets/Santa.png" width="220" /></a>
+  <a href="https://github.com/Bangdayeon/woonipangi"><img src="assets/Wooniepangi.png" width="220" /></a>
+  <a href="https://github.com/Da-sii/Frontend"><img src="assets/Dassi.png" width="220" /></a>
+</div>
 
 <h2> ⭐ Activities </h2>
 <p>

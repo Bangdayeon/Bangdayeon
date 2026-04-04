@@ -17,7 +17,7 @@
   <a href="https://github.com/Bangdayeon/santa_appointment_letter">
     <img width="230" alt="santa" src="https://github.com/user-attachments/assets/68c2fc39-fb00-4a33-8a10-4b13716cef1a" />
   </a>
-  <a href="https://github.com/Bangdayeon/santa_appointment_letter">
+  <a href="https://github.com/Bangdayeon/bingket">
     <img width="230" alt="bingket" src="https://github.com/user-attachments/assets/a87677f9-333c-4261-bf21-502ef85af45e" />
   </a>
 </div>

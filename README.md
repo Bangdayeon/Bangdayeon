@@ -11,7 +11,7 @@
   <a href="https://github.com/Da-sii/Frontend">
     <img width="230" alt="dassi" src="https://github.com/user-attachments/assets/a4bcdcde-4d74-4bf1-9888-79ae699c76c7" />
   </a>
-  <a그는  href="https://github.com/Bangdayeon/bingket">
+  <a href="https://github.com/Bangdayeon/bingket">
     <img width="230" alt="bingket" src="https://github.com/user-attachments/assets/a87677f9-333c-4261-bf21-502ef85af45e" />
   </a>
   <a href="https://github.com/Bangdayeon/woonipangi">
